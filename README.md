@@ -1,0 +1,1 @@
+This is SMART-opal - an [Opal](https://github.com/openhealthcare/opal) plugin.
